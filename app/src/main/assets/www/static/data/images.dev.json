@@ -1,0 +1,99 @@
+{
+    "frames": [
+        {
+            "background": "red",
+            "color": "black",
+            "name": "camera-retro"
+        },
+        {
+            "background": "light-grey",
+            "color": "green",
+            "name": "car"
+        },
+        {
+            "background": "blue",
+            "color": "yellow",
+            "name": "bolt"
+        },
+        {
+            "background": "red",
+            "color": "yellow",
+            "name": "bell"
+        },
+        {
+            "background": "white",
+            "color": "gold",
+            "name": "beer"
+        },
+        {
+            "background": "white",
+            "color": "grey",
+            "name": "cogs"
+        },
+        {
+            "background": "white",
+            "color": "grey",
+            "name": "wrench"
+        },
+        {
+            "background": "white",
+            "color": "black",
+            "name": "wifi"
+        },
+        {
+            "background": "black",
+            "color": "yellow",
+            "name": "star"
+        },
+        {
+            "background": "white",
+            "color": "green",
+            "name": "tree"
+        },
+        {
+            "background": "black",
+            "color": "yellow",
+            "name": "trophy"
+        },
+        {
+            "background": "black",
+            "color": "white",
+            "name": "shopping-cart"
+        },
+        {
+            "background": "blue",
+            "color": "black",
+            "name": "plane"
+        },
+        {
+            "name": "lock"
+        },
+        {
+            "name": "magic"
+        },
+        {
+            "name": "microphone"
+        },
+        {
+            "name": "graduation-cap"
+        },
+        {
+            "name": "gavel"
+        },
+        {
+            "name": "coffee"
+        },
+        {
+            "name": "flag"
+        },
+        {
+            "name": "eye"
+        },
+        {
+            "name": "envelope"
+        },
+        {
+            "name": "moon"
+        }
+    ]
+}
